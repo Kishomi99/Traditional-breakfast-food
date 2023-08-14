@@ -48,7 +48,7 @@ section{
 
 /*******home******/
 #home{
-    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.5)),url(combine.jpg);
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.5)),url(images/combine.jpg);
     /*background-size: cover;*/
     background-position: center;
     flex-direction: column;/* ouku kela onu vara*/
